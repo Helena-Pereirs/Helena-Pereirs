@@ -16,9 +16,9 @@ Atualmente estudo **informática-EMTI** e gosto de aprender sobre:
 ---
 
 ## 🛠️ Habilidades
-Aqui estão algumas das linguagens, tecnologias e ferramentas que utilizo no meu dia a dia:
+Sei, mexer com:
 ![cubo magico](https://upload.wikimedia.org/wikipedia/commons/b/bb/Rubiks_cube_by_keqs.jpg)
-
+(width="200")
           
 ---
 
