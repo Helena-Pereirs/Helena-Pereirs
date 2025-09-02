@@ -17,8 +17,8 @@ Atualmente estudo **informática-EMTI** e gosto de aprender sobre:
 
 ## 🛠️ Habilidades
 Sei, mexer com:
-![cubo magico](https://upload.wikimedia.org/wikipedia/commons/b/bb/Rubiks_cube_by_keqs.jpg)
-(width="200")
+![cubo magico](https://upload.wikimedia.org/wikipedia/commons/b/bb/Rubiks_cube_by_keqs.jpg)(width="200")
+
           
 ---
 
