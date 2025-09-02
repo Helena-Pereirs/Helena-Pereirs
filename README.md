@@ -1,5 +1,4 @@
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 # 👋 Oiii, voce está no perfil de Helena Pereira!
 
@@ -10,7 +9,6 @@ Atualmente estudo **informática-EMTI** e gosto de aprender sobre:
 - 🤖 Robótica
 ---
 
-            <i class="devicon-github-original "></i>
           
 ## 🎯 Áreas de Interesse
 - Humanas
@@ -19,11 +17,8 @@ Atualmente estudo **informática-EMTI** e gosto de aprender sobre:
 
 ## 🛠️ Habilidades
 Aqui estão algumas das linguagens, tecnologias e ferramentas que utilizo no meu dia a dia:
+          !Não tenho muitas habilidades mas me dá um cobo magico que eu resolvo(https://upload.wikimedia.org/wikipedia/commons/b/bb/Rubiks_cube_by_keqs.jpg)
 
-
-         
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-          
           
 ---
 
