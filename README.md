@@ -1,15 +1,15 @@
-# 👋 Oiii, voce está no perfil de [Helena Pereira]!
+# 👋 Oiii, voce está no perfil de Helena Pereira!
 
 ## ✨ Apresentação
 Não sou muito fã de programação mas pra ganhar ponto, a gente faz tudo né🚀.  
-Atualmente estudo **[informática-EMTI]** e gosto de aprender sobre:
+Atualmente estudo **informática-EMTI** e gosto de aprender sobre:
 - 💻 Programação
 - 🤖 Robótica
 ---
 
 ## 🎯 Áreas de Interesse
-- [Humanas]
-- [Exatas]
+- Humanas
+- Exatas
 ---
 
 ## 🛠️ Habilidades
@@ -19,8 +19,8 @@ Aqui estão algumas das linguagens, tecnologias e ferramentas que utilizo no meu
 ---
 
 ## 📫 Formas de Contato
-- 📧 E-mail: [hp3541647@gmail.com]   
-- 🌐 Instagram: [_helenapereira20]  
+- 📧 E-mail: hp3541647@gmail.com  
+- 🌐 Instagram: _helenapereira20  
 
 ---
 
