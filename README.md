@@ -16,6 +16,8 @@ Atualmente estudo **informática-EMTI** e gosto de aprender sobre:
 Aqui estão algumas das linguagens, tecnologias e ferramentas que utilizo no meu dia a dia:
 
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
 ---
 
 ## 📫 Formas de Contato
