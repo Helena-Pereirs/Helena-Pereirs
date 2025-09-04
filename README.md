@@ -13,7 +13,7 @@ Atualmente estudo **informática-EMTI** e gosto de aprender sobre:
 ## 🎯 Áreas de Interesse
 - Humanas
 - Exatas
----
+
 
 ## 🛠️ Habilidades
 Sei, mexer com:
