@@ -11,14 +11,17 @@ Atualmente estudo **informática-EMTI** e gosto de aprender sobre:
 
           
 ## 🎯 Áreas de Interesse
+Não sou muito ligada 
 - Humanas
 - Exatas
 
 
 ## 🛠️ Habilidades
 Sei, mexer com:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/38114d8f-91db-4c08-b8fb-4bf49b7e31f2" />
 
-![cubo magico](https://upload.wikimedia.org/wikipedia/commons/b/bb/Rubiks_cube_by_keqs.jpg)
+
+
 
 
           
