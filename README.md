@@ -34,4 +34,5 @@ Sei, mexer com:
 ---
 
 ⭐ **Tudo por uma barra de chocolate!**  
-<div class="tenor-gif-embed" data-postid="15740056" data-share-method="host" data-aspect-ratio="1.26482" data-width="100%"><a href="https://tenor.com/view/thurston-waffles-meow-scream-glowing-eyes-cat-gif-15740056">Thurston Waffles Meow GIF</a>from <a href="https://tenor.com/search/thurston+waffles-gifs">Thurston Waffles GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="640" height="506" alt="image" src="https://github.com/user-attachments/assets/ada4e746-3127-4298-8628-17fcdf6b2a2e" />
+
