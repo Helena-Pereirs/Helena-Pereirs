@@ -1,6 +1,7 @@
 
           
 # 👋 Oiii, voce está no perfil de Helena Pereira!
+<img width="332" height="498" alt="image" src="https://github.com/user-attachments/assets/096a7196-29c7-4fb9-9e56-07fee78282fd" />
 
 ## ✨ Apresentação
 Não sou muito fã de programação mas pra ganhar ponto, a gente faz tudo né🚀.  
@@ -34,5 +35,5 @@ Sei, mexer com:
 ---
 
 ⭐ **Tudo por uma barra de chocolate!**  
-<img width="640" height="506" alt="image" src="https://github.com/user-attachments/assets/ada4e746-3127-4298-8628-17fcdf6b2a2e" />
+<img width="474" height="96" alt="image" src="https://github.com/user-attachments/assets/b9fce67b-ef05-4a90-bf03-d8aa05690512" />
 
