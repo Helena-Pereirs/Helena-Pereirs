@@ -20,6 +20,7 @@ Não sou muito ligada
 ## 🛠️ Habilidades
 Sei, mexer com:
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/38114d8f-91db-4c08-b8fb-4bf49b7e31f2" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/48f90fed-1e88-4f61-8cda-d6bbba1bec8e" />
 
 
 
